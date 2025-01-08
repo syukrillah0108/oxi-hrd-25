@@ -4,6 +4,8 @@ UKM (Unit Kegiatan Mahasiswa) Oxigen Universitas Teknologi Bandung
 
 # Jalur Materi
 
+Roadmap pembelajaran hardware elektronik ini dirancang untuk memandu dari dasar hingga penguasaan IoT yang terintegrasi dengan AI. Dimulai dengan memahami komponen elektronik dan menggunakan mikrokontroler seperti Arduino dan ESP32 untuk mengontrol perangkat keras sederhana. Selanjutnya, akan beralih ke SBC seperti Raspberry Pi atau Banana Pi untuk membangun sistem komputasi lebih kompleks.
+
 ### **Tahap 1: Dasar Elektronika**
 
 1. **Memahami Komponen Elektronik:**
@@ -68,7 +70,7 @@ UKM (Unit Kegiatan Mahasiswa) Oxigen Universitas Teknologi Bandung
    * Konsep Machine Learning.
    * Aplikasi AI dalam IoT (deteksi anomali, prediksi).
 2. **Platform AI:**
-   * Menggunakan TensorFlow Lite atau Edge Impulse.
+   * Menggunakan TensorFlow Lite atau CV2.
    * Melatih model sederhana untuk klasifikasi data.
 3. **Implementasi AI di Mikrokontroler/SBC:**
    * Deploy model AI ke ESP32 atau Raspberry Pi.
