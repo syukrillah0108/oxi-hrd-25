@@ -10,7 +10,6 @@ Roadmap pembelajaran hardware elektronik ini dirancang untuk memandu dari dasar 
 
 1. **Memahami Komponen Elektronik:**
    * Resistor, kapasitor, transistor, dioda, IC.
-   * Cara membaca kode warna resistor.
    * Penggunaan multimeter.
 2. **Rangkaian Dasar:**
    * Rangkaian seri dan paralel.
