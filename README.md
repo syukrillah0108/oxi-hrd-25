@@ -13,7 +13,7 @@ Roadmap pembelajaran hardware elektronik ini dirancang untuk memandu dari dasar 
    * Penggunaan multimeter.
 2. **Rangkaian Dasar:**
    * Rangkaian seri dan paralel.
-   * Mengukur tegangan, arus, dan resistansi.
+   * Mengukur tegangan dan resistansi.
 3. **Soldering & Breadboarding:**
    * Teknik menyolder yang benar.
    * Membuat rangkaian sederhana di breadboard.
