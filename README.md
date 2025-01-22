@@ -27,9 +27,10 @@ Roadmap pembelajaran hardware elektronik ini dirancang untuk memandu dari dasar 
    * Arduino (Uno, Nano, atau Mega).
    * ESP8266 atau ESP32 untuk IoT dasar.
 2. **Pemrograman Mikrokontroler:**
-   * Blink LED (program pertama).
+   * Memilih IDE
    * Membaca input dari tombol/sensor.
    * Mengontrol output seperti LED, buzzer, relay.
+   * Arduino Cloud.
 3. **Sensor dan Aktuator:**
    * Sensor suhu (DHT11, DS18B20).
    * Sensor jarak (Ultrasonic HC-SR04).
@@ -87,14 +88,13 @@ Roadmap pembelajaran hardware elektronik ini dirancang untuk memandu dari dasar 
    * Kamera cerdas untuk deteksi objek.
    * Sistem pemeliharaan prediktif untuk alat elektronik.
 
-### **Tahap 7: Optimasi dan Scaling**
+### Track Pelatihan
 
-1. **Optimasi Hardware:**
-   * Memilih sensor dan aktuator yang hemat daya.
-   * Menambah sumber energi alternatif (solar panel).
-2. **Scaling Sistem:**
-   * Memanfaatkan layanan cloud seperti AWS IoT, Google IoT Core.
-   * Sistem multi-node dengan beberapa perangkat IoT.
-3. **Keamanan IoT:**
-   * Enkripsi komunikasi data (TLS/SSL).
-   * Pengaturan autentikasi dan otorisasi pada sistem IoT.
+| No | Materi                      | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+| -- | --------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 1  | Dasar Elektronika           | ✅ | ✅ | ✅ | ✅ |    |    |    |    |    |    | ✅ | ✅ |
+| 2  | Mikrokontroler Dasar        |    |    | ✅ | ✅ | ✅ |    |    |    |    |    | ✅ | ✅ |
+| 3  | SBC (Single Board Computer) |    |    |    |    | ✅ | ✅ |    | ✅ | ✅ |    | ✅ | ✅ |
+| 4  | IoT dan Jaringan            |    |    |    | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |    | ✅ | ✅ |
+| 5  | Sistem AI Terintegrasi      |    |    |    |    |    |    |    | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 6  | Proyek Lanjutan             |    |    |    |    |    |    |    |    |    |    | ✅ | ✅ |
