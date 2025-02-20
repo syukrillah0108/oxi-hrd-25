@@ -18,10 +18,9 @@ Roadmap pembelajaran hardware elektronik ini dirancang untuk memandu dari dasar 
    * Teknik menyolder yang benar.
    * Membuat rangkaian sederhana di breadboard.
 4. **Sumber Daya:**
-   * Memahami jenis baterai, adaptor, dan power bank.
-   * Regulator tegangan (LM7805, LM317).
+   * Memahami jenis baterai, dan power bank.
 
-### **Tahap 2: Mikrokontroler Dasar**
+### **Tahap 2: Mikrokontroler**
 
 1. **Memilih Mikrokontroler:**
    * Arduino (Uno, Nano, atau Mega).

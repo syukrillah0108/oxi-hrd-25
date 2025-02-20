@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Roadmap/Tahap 2/src/src.ino"
+}
