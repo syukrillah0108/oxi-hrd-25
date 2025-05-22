@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="fj0EYs5FHcrPIWMEf9jZ" name="Karakteristik">
-        <mxGraphModel dx="1284" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1284" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -80,7 +80,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Kode" id="9nPOo9RUkjAjLuvvArwG">
-        <mxGraphModel dx="2568" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1284" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="Ef5aAg3daOjvYsMQ55Ko-0"/>
                 <mxCell id="Ef5aAg3daOjvYsMQ55Ko-1" parent="Ef5aAg3daOjvYsMQ55Ko-0"/>

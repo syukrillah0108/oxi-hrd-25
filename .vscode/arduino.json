@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "Roadmap/Tahap 2/src/src.ino"
+    "sketch": "Roadmap/Tahap 2/src/src.ino",
+    "port": "/dev/ttyUSB1"
 }
