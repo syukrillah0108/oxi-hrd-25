@@ -1,5 +1,6 @@
 {
-    "board": "arduino:avr:uno",
-    "sketch": "Roadmap/Tahap 2/src/src.ino",
-    "port": "/dev/ttyUSB1"
+    "board": "arduino:avr:nano",
+    "sketch": "video\\src\\serial\\serial.ino",
+    "port": "COM4",
+    "configuration": "cpu=atmega328"
 }
